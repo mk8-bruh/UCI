@@ -12,4 +12,4 @@ research with the OT2 programmable robot, including a framework for generating p
 
 ---
 
-for more insight download the Powerpoint presentations from each folder
+> *for more insight download the Powerpoint presentations from each folder*
